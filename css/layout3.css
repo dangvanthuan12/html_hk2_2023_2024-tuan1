@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+#khung {
+    margin-top: 20px;
+    width: 960px;
+    height: 800px;
+    border: 1px solid red;
+}
+
+header {
+    width: 100%;
+    height: 150px;
+    background-color: royalblue;
+}
+
+#menu1 {
+    width: 100%;
+    height: 50px;
+    background-color: sandybrown;
+}
+
+#menu2 {
+    float: left;
+    width: 20%;
+    height: 500px;
+    background-color: rgb(96, 244, 128);
+}
+
+section {
+    float: left;
+    width: 60%;
+    height: 500px;
+    background-color: rgb(244, 96, 207);
+}
+
+aside {
+    float: left;
+    width: 20%;
+    height: 500px;
+    background-color: rgb(96, 244, 128);
+}
+
+footer {
+    clear: both;
+    width: 100%;
+    height: 98px;
+    background-color: sandybrown;
+}
